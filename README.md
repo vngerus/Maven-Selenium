@@ -1,5 +1,31 @@
-**
+
 # Maven-Selenium Project
+
+## Índice
+1. [Introducción](#introducción)
+    - [Objetivos](#objetivos)
+2. [Configuración del Entorno](#configuración-del-entorno)
+    - [Requisitos](#requisitos)
+    - [Variables de Entorno](#variables-de-entorno)
+    - [Instalación](#instalación)
+3. [Estructura del Proyecto](#estructura-del-proyecto)
+    - [Arquitectura](#arquitectura)
+    - [Estructura de Carpetas](#estructura-de-carpetas)
+4. [Pipeline de Jenkins](#pipeline-de-jenkins)
+    - [Descripción del Pipeline](#descripción-del-pipeline)
+    - [Estructura del Pipeline](#estructura-del-pipeline)
+    - [Configuración del Pipeline en Jenkins](#configuración-del-pipeline-en-jenkins)
+    - [Resultados y Logs](#resultados-y-logs)
+5. [Uso y Mantenimiento](#uso-y-mantenimiento)
+    - [Actualización de Dependencias](#actualización-de-dependencias)
+    - [Solución de Problemas](#solución-de-problemas)
+6. [Conclusiones y Próximos Pasos](#conclusiones-y-próximos-pasos)
+7. [Referencias](#referencias)
+8. [Anexos](#anexos)
+    - [Archivos de Configuración](#archivos-de-configuración)
+    - [Scripts Utilizados](#scripts-utilizados)
+
+---
 
 ## Introducción
 Este proyecto utiliza HTML, CSS, JavaScript, y Java para automatizar pruebas utilizando Selenium. Está configurado para ejecutarse en un entorno de integración continua con Jenkins.
@@ -140,4 +166,3 @@ Listado y descripción de scripts personalizados, si aplica.
 ---
 
 _Este archivo README proporciona toda la información necesaria para configurar, ejecutar y mantener el proyecto Maven-Selenium._
-**
