@@ -162,5 +162,3 @@ El pipeline automatiza la compilación, pruebas y notificaciones, asegurando un 
 
 ### Scripts Utilizados
 Listado y descripción de scripts personalizados, si aplica.
-
----
