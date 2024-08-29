@@ -1,5 +1,5 @@
 
-# Maven-Selenium Project
+# Implementa pruebas funcionales en el ciclo de integración continua utilizando Selenium
 
 ## Índice
 1. [Introducción](#introducción)
@@ -164,5 +164,3 @@ El pipeline automatiza la compilación, pruebas y notificaciones, asegurando un 
 Listado y descripción de scripts personalizados, si aplica.
 
 ---
-
-_Este archivo README proporciona toda la información necesaria para configurar, ejecutar y mantener el proyecto Maven-Selenium._
